@@ -3,7 +3,7 @@
 
 - 📚 I’m currently learning **PHP and React.Js**
 
-- 🎈 Know more about my experiences [DDsCode](https://dds-code-com-portifolio.vercel.app)
+- 🎈 Know more about my experiences [Danilosiq Website](https://danilosiq-website.vercel.app)
 
 <hr>
 <h3>Hard Skills:</h3>
