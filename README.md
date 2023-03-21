@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello! i'm Danilo, Welcome!<img align="right" height = "170em" alt="" src="https://cdn.discordapp.com/attachments/715666833268539414/1087781093509435422/pixil-frame-0_1.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danilosiq&label=Profile%20views&color=0e75b6&style=flat" alt="danilosiq" /> </p>
 
-<!--
-**danilosiq/Danilosiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I’m currently learning **PHP and React.Js**
 
-Here are some ideas to get you started:
+- 🎈 Know more about my experiences [DDsCode](https://dds-code-com-portifolio.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<h3>Hard Skills:</h3>
+
+  <img height = "70em" src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg">   <img height = "70em" src="https://icon-library.com/images/html5-icon-png/html5-icon-png-21.jpg">   <img height = "60em" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">    <img height = "60em" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">    <img height = "60em" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">     <img height = "58em" src="https://icon-library.com/images/js-icon/js-icon-24.jpg">
+  
+  
+<div>
+  <a href="https://github.com/danilosiq">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilosiq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosiq&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+<hr>
+
+<h3>Connect with me!</h3>
+<a href="https://github.com/danilosiq" target="_blank"> <img height="60em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png"/>
+
+<hr>
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+ 
+
