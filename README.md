@@ -1,4 +1,4 @@
-### Hello! i'm Danilo, Welcome!<img align="right" height = "170em" alt="" src="[https://cdn.discordapp.com/attachments/715666833268539414/1087781093509435422/pixil-frame-0_1.png](https://cdn.discordapp.com/attachments/812548779751243806/1198776884318720111/pixil-frame-0.png?ex=65c022f9&is=65adadf9&hm=cdbfe7f0537f0e44384113a26d15b532137de8a7f8145e815bd0e063784b54d6&)">
+### Hello! i'm Danilo, Welcome!<img align="right" height = "170em" alt="" src="https://cdn.discordapp.com/attachments/812548779751243806/1198776884318720111/pixil-frame-0.png?ex=65c022f9&is=65adadf9&hm=cdbfe7f0537f0e44384113a26d15b532137de8a7f8145e815bd0e063784b54d6&">
 <p align="left"> <img src="https://cdn.discordapp.com/attachments/812548779751243806/1198776884318720111/pixil-frame-0.png?ex=65c022f9&is=65adadf9&hm=cdbfe7f0537f0e44384113a26d15b532137de8a7f8145e815bd0e063784b54d6&" alt="danilosiq" /> </p>
 
 - 📚 I’m currently learning **PHP and React.Js**
