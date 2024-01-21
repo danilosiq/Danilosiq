@@ -8,6 +8,8 @@
 <hr>
 <h3>Hard Skills:</h3>
 
+<img height = "70em" src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg">   <img height = "70em" src="https://icon-library.com/images/html5-icon-png/html5-icon-png-21.jpg">   <img height = "60em" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">    <img height = "60em" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">    <img height = "60em" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">     <img height = "58em" src="https://icon-library.com/images/js-icon/js-icon-24.jpg">
+
   
 
 <div>
