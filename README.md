@@ -1,5 +1,5 @@
 ### Hello! i'm Danilo, Welcome!<img align="right" height = "170em" alt="" src="https://cdn.discordapp.com/attachments/715666833268539414/1087781093509435422/pixil-frame-0_1.png">
-<p align="left"> <img src="" alt="danilosiq" /> </p>
+<p align="left"> <img src="blob:https://web.whatsapp.com/9ef0d739-17fd-48e0-8302-a56f168c11ad" alt="danilosiq" /> </p>
 
 - 📚 I’m currently learning **PHP and React.Js**
 
