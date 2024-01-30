@@ -21,7 +21,7 @@
 <hr>
 
 <h3>Connect with me!</h3>
-<a href="https://github.com/danilosiq" target="_blank"> <img height="60em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png"/>
+<a href="https://www.linkedin.com/in/danilo-siqueira-1a31a7234/" target="_blank"> <img height="60em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png"/>
 
 <hr>
 
