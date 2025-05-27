@@ -1,8 +1,8 @@
 ### Hello! i'm Danilo, Welcome!<img align="right" height = "170em" alt="" src="">
 
-- 🎈 Know more about my experiences [Portifolio](https://danilo-portilofio.vercel.app/)
+- 🎈 Know more about my experiences [Portifolio](https://danilodantesiqueira.vercel.app/)
 
-- 📫 Reach me at danilodsiqueira@outlook.com
+- 📫 Reach me at danilodantesiqueira@gmail.com
   
 
 <div>
