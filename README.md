@@ -7,69 +7,56 @@
   </a>
 </p>
 
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer passionate about clean architecture and scalable systems  
-- 🧠 Strong focus on backend development with Node.js and Prisma  
-- ⚡ Experienced with React, TypeScript and modern frontend architecture  
-- 📚 Always studying software architecture, SOLID principles and performance  
-- 🎯 Goal: Build robust systems that solve real-world problems  
 
 ---
+
+<p align="center">
+  💼 Software Developer at <strong>Exban</strong>  
+  📍 Curitiba, Brazil
+</p>
+
+
+---
+
 
 ## 🛠 Tech Stack
 
-### Backend
-- Node.js
-- TypeScript
-- Prisma ORM
-- PostgreSQL
-- Docker
+<p align="left">
 
-### Frontend
-- React.js
-- Vite
-- TailwindCSS
-- ShadCN
-- React Hook Form
+<img src="https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-Expo-161B22?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/-Next.js-161B22?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/-TailwindCSS-161B22?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/-Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/-Prisma-161B22?style=flat-square&logo=prisma&logoColor=white" />
 
-### Architecture & Concepts
-- SOLID
-- Clean Architecture
-- Repository Pattern
-- Use Cases Pattern
-- TDD with Vitest
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danilosiq&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosiq&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-🔹 Check out my portfolio for detailed projects and case studies:  
-👉 https://danilodantesiqueira.vercel.app/
-
----
 
 ## 🌎 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/danilo-dante-siqueira-1a31a7234/" target="_blank">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png"/>
-  </a>
-  <a href="https://www.instagram.com/daniloosiq/" target="_blank">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968776.png"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/danilo-dante-siqueira-1a31a7234/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+
+<a href="https://www.instagram.com/daniloosiq/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+
+<a href="https://api.whatsapp.com/send/?phone=5541985060659">
+  <img src="https://img.shields.io/badge/WhatsApp-26913d?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
+
+
 
 ---
 
